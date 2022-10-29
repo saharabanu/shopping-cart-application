@@ -1,4 +1,4 @@
 # Shopping Cart with Redux
 
-### Live Link: 
+### Live Link: https://shopping-cart-redux-react.netlify.app/
 
